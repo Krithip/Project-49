@@ -1,0 +1,27 @@
+.meno{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: white;
+}
+body{
+    background-color: rgb(255, 173, 255);
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.Origami{
+    border-radius: 20px;
+    border-color: white;
+    width: 310px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
